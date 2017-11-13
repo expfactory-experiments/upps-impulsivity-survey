@@ -2,6 +2,7 @@
     "name": "UPPS-P Impulsivity Scale Survey",
     "template":"survey",
     "exp_id": "upps-impulsivity-survey",
+    "url": "https://github.com/expfactory-experiments/upps-impulsivity-survey",
     "cognitive_atlas_task_id": "trm_56a91a92043bc",
     "contributors": [
              "Zeynep Enkavi",
